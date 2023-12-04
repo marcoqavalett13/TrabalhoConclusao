@@ -17,7 +17,7 @@ learning_rate = 0.1 ##taxa aprendizado
 discount_factor = 0.99  ##fator de desconto
 exploration_prob = 1.0 ##prob exploracao inicial
 exploration_decay = 0.99 ##taxa decaimento da prob de exploração
-max_steps_per_episode = 1000 ##teste
+max_steps_per_episode = 500 
 
 total_reward = 0
 
